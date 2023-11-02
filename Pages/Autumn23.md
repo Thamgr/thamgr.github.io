@@ -1,3 +1,6 @@
+# 02.11 [Забег на четвереньках](https://codeforces.com/contests/483116)
+<img src ="https://i.imgur.com/OHQERuf.jpg" alt="Дима Тишин" width="200">
+
 # 31.10 [Ищем два других способа перемещения](https://informatics.msk.ru/course/view.php?id=5374)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjMLs6lEOcikrPocAEsL0uDE9eV9jWZ4DL7JKxSfIvqQh_5S6uuisag8sDOfwPQq-8IB4&usqp=CAU" alt="" width="200"/>
 
