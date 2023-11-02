@@ -1,4 +1,7 @@
-# [Правила кубка ~~огня~~ строителя](https://docs.google.com/document/d/1OFqiEEuEvKDDR0FJXAiASfUpAlaWiO2IYrnDR-hFhT0/edit)
+# AlgoSeasons Cup
+[Правила](https://docs.google.com/document/d/1OFqiEEuEvKDDR0FJXAiASfUpAlaWiO2IYrnDR-hFhT0/edit) 
+
+<img src="https://challonge.com/ru/ofz2rxfi.svg" width="100%"/>
 
 ## 02.11 [Забег на четвереньках](https://codeforces.com/contests/483116)
 <img src ="https://i.imgur.com/OHQERuf.jpg" alt="Дима Тишин" width="200">
