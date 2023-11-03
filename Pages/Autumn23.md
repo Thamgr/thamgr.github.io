@@ -1,32 +1,13 @@
 # AlgoSeasons Cup
 [Правила](https://docs.google.com/document/d/1OFqiEEuEvKDDR0FJXAiASfUpAlaWiO2IYrnDR-hFhT0/edit) 
+[Архив](https://docs.google.com/document/d/1JMMoS-LEqMrsdWvbVxELwUDQbntsLfCqrdwLdEEXmP8/edit?usp=sharing) 
+[Общая ставка](https://docs.google.com/forms/d/e/1FAIpQLScoDgj35FKZ8NV7o1bceMSRnfAdstMfMgvs-SH4Rg7Mr6UPfw/viewform?usp=sf_link)
 
 <img src="https://challonge.com/ru/ofz2rxfi.svg" width="100%"/>
 
-[Общая ставка на результаты турнира](https://docs.google.com/forms/d/e/1FAIpQLScoDgj35FKZ8NV7o1bceMSRnfAdstMfMgvs-SH4Rg7Mr6UPfw/viewform?usp=sf_link)
-
-[1 раунд](https://codeforces.com/contests/477570) \
-[Армагеддон](https://codeforces.com/contestInvitation/d61825620c5cc7675f985c0e76d1e29a17402729)
-
-[2 раунд](https://codeforces.com/contests/477572) \
-[Армагеддон](https://codeforces.com/contests/484014) \
-[ставки](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfx9oYi0yIGpVsnKTB2U2sjg3JYuEyJiCrsfOzVeM2FjAIcfA%2Fviewform%3Fusp%3Dsf_link)
-
-[2 раунд нижней сетки](https://codeforces.com/contests/484015) \
-~~Армагеддон~~
-[Ставки](https://docs.google.com/forms/d/e/1FAIpQLSc9g6mrUWOlMvG6EGkBjTX-ASqP4grosTJDhEa1vQnY5fJlxA/viewform?usp=sf_link)
-
-[Полуфиналы](https://codeforces.com/contests/484067) \
-[Армагеддон](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
+[Раунд](https://codeforces.com/contests/484067) \
+[Армагеддон](https://codeforces.com/contests/484073) \
 [Ставки](https://docs.google.com/forms/d/e/1FAIpQLSfHt7ew4O9JhKapD5ILdx7HIPSnZ-k_olCftAtSFUftKrs2aA/viewform?usp=sf_link)
-
-[Финал нижней сетки](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
-[Армагеддон](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
-[Ставки](https://docs.google.com/forms/d/e/1FAIpQLScFkd2flvaeLhWw2RUj8zrj0_VeLNEfY7ATKleFi-YN34BsLg/viewform?usp=sf_link) 
-
-[ФИНАЛ](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
-[Армагеддон](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
-[Ставки](https://docs.google.com/forms/d/e/1FAIpQLSdOtJOLMacnXeELCWSODZgI91MIbKaku9Hadiuxi77quppjJA/viewform?usp=sf_link)
 
 ## 02.11 [Забег на четвереньках](https://codeforces.com/contests/483116)
 <img src ="https://i.imgur.com/OHQERuf.jpg" alt="Дима Тишин" width="200">
