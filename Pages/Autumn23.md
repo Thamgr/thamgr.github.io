@@ -7,7 +7,7 @@
 [Армагеддон](https://codeforces.com/contestInvitation/d61825620c5cc7675f985c0e76d1e29a17402729)
 
 [2 раунд](https://codeforces.com/contests/477572) \
-[Армагеддон]() \
+[Армагеддон] \
 [ставки](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfx9oYi0yIGpVsnKTB2U2sjg3JYuEyJiCrsfOzVeM2FjAIcfA%2Fviewform%3Fusp%3Dsf_link)
 
 [2 раунд нижней сетки](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
