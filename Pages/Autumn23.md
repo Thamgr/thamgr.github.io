@@ -3,7 +3,8 @@
 
 <img src="https://challonge.com/ru/ofz2rxfi.svg" width="100%"/>
 
-[1 раунд](https://codeforces.com/contests/477570)
+[1 раунд](https://codeforces.com/contests/477570) \
+[Армагеддон](https://codeforces.com/gym/477571)
 
 ## 02.11 [Забег на четвереньках](https://codeforces.com/contests/483116)
 <img src ="https://i.imgur.com/OHQERuf.jpg" alt="Дима Тишин" width="200">
