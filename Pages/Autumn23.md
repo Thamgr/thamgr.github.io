@@ -3,6 +3,8 @@
 
 <img src="https://challonge.com/ru/ofz2rxfi.svg" width="100%"/>
 
+[Общая ставка на результаты турнира](https://docs.google.com/forms/d/e/1FAIpQLScoDgj35FKZ8NV7o1bceMSRnfAdstMfMgvs-SH4Rg7Mr6UPfw/viewform?usp=sf_link)
+
 [1 раунд](https://codeforces.com/contests/477570) \
 [Армагеддон](https://codeforces.com/contestInvitation/d61825620c5cc7675f985c0e76d1e29a17402729)
 
