@@ -23,7 +23,7 @@
 [Ставки](https://docs.google.com/forms/d/e/1FAIpQLScFkd2flvaeLhWw2RUj8zrj0_VeLNEfY7ATKleFi-YN34BsLg/viewform?usp=sf_link) 
 
 [ФИНАЛ](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
-[Армамгеддон](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
+[Армагеддон](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
 [Ставки](https://docs.google.com/forms/d/e/1FAIpQLSdOtJOLMacnXeELCWSODZgI91MIbKaku9Hadiuxi77quppjJA/viewform?usp=sf_link)
 
 ## 02.11 [Забег на четвереньках](https://codeforces.com/contests/483116)
