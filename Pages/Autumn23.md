@@ -11,10 +11,10 @@
 [ставки](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfx9oYi0yIGpVsnKTB2U2sjg3JYuEyJiCrsfOzVeM2FjAIcfA%2Fviewform%3Fusp%3Dsf_link)
 
 [2 раунд нижней сетки](https://codeforces.com/contests/484015) \
-[Армагеддон](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
+~~Армагеддон~~
 [Ставки](https://docs.google.com/forms/d/e/1FAIpQLSc9g6mrUWOlMvG6EGkBjTX-ASqP4grosTJDhEa1vQnY5fJlxA/viewform?usp=sf_link)
 
-[Полуфиналы](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
+[Полуфиналы](https://codeforces.com/contests/484067) \
 [Армагеддон](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
 [Ставки](https://docs.google.com/forms/d/e/1FAIpQLSfHt7ew4O9JhKapD5ILdx7HIPSnZ-k_olCftAtSFUftKrs2aA/viewform?usp=sf_link)
 
