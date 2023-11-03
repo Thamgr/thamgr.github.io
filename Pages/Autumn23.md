@@ -8,7 +8,23 @@
 
 [2 раунд](https://codeforces.com/contests/477572) \
 [Армагеддон](https://codeforces.com/contests/477575) \
-[ставки раунд 2](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfx9oYi0yIGpVsnKTB2U2sjg3JYuEyJiCrsfOzVeM2FjAIcfA%2Fviewform%3Fusp%3Dsf_link)
+[ставки](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfx9oYi0yIGpVsnKTB2U2sjg3JYuEyJiCrsfOzVeM2FjAIcfA%2Fviewform%3Fusp%3Dsf_link)
+
+[2 раунд нижней сетки](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
+[Армагеддон](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
+[Ставки](https://docs.google.com/forms/d/e/1FAIpQLSc9g6mrUWOlMvG6EGkBjTX-ASqP4grosTJDhEa1vQnY5fJlxA/viewform?usp=sf_link)
+
+[Полуфиналы](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
+[Армагеддон](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
+[Ставки](https://docs.google.com/forms/d/e/1FAIpQLSfHt7ew4O9JhKapD5ILdx7HIPSnZ-k_olCftAtSFUftKrs2aA/viewform?usp=sf_link)
+
+[Финал нижней сетки](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
+[Армагеддон](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
+[Ставки](https://docs.google.com/forms/d/e/1FAIpQLScFkd2flvaeLhWw2RUj8zrj0_VeLNEfY7ATKleFi-YN34BsLg/viewform?usp=sf_link) 
+
+[ФИНАЛ](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
+[Армамгеддон](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUYbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXAg) \
+[Ставки](https://docs.google.com/forms/d/e/1FAIpQLSdOtJOLMacnXeELCWSODZgI91MIbKaku9Hadiuxi77quppjJA/viewform?usp=sf_link)
 
 ## 02.11 [Забег на четвереньках](https://codeforces.com/contests/483116)
 <img src ="https://i.imgur.com/OHQERuf.jpg" alt="Дима Тишин" width="200">
