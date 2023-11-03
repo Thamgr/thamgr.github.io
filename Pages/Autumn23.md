@@ -6,7 +6,8 @@
 [1 раунд](https://codeforces.com/contests/477570) \
 [Армагеддон](https://codeforces.com/contestInvitation/d61825620c5cc7675f985c0e76d1e29a17402729)
 
-[2 раунд](https://codeforces.com/contests/477572)
+[2 раунд](https://codeforces.com/contests/477572) \
+[ставки раунд 2](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfx9oYi0yIGpVsnKTB2U2sjg3JYuEyJiCrsfOzVeM2FjAIcfA%2Fviewform%3Fusp%3Dsf_link)
 
 ## 02.11 [Забег на четвереньках](https://codeforces.com/contests/483116)
 <img src ="https://i.imgur.com/OHQERuf.jpg" alt="Дима Тишин" width="200">
