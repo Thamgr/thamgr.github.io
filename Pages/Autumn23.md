@@ -6,7 +6,7 @@
 <img src="https://challonge.com/ru/ofz2rxfi.svg" width="100%"/>
 
 [Раунд](https://codeforces.com/contests/484216) \
-[Армагеддон] \
+[Армагеддон](https://codeforces.com/contests/484228) \
 [Ставки](https://docs.google.com/forms/d/e/1FAIpQLSdOtJOLMacnXeELCWSODZgI91MIbKaku9Hadiuxi77quppjJA/viewform?usp=sf_link)
 
 ## 02.11 [Забег на четвереньках](https://codeforces.com/contests/483116)
