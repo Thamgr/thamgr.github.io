@@ -2,6 +2,7 @@
 [Правила](https://docs.google.com/document/d/1OFqiEEuEvKDDR0FJXAiASfUpAlaWiO2IYrnDR-hFhT0/edit) 
 [Архив](https://docs.google.com/document/d/1JMMoS-LEqMrsdWvbVxELwUDQbntsLfCqrdwLdEEXmP8/edit?usp=sharing) 
 [Общая ставка](https://docs.google.com/forms/d/e/1FAIpQLScoDgj35FKZ8NV7o1bceMSRnfAdstMfMgvs-SH4Rg7Mr6UPfw/viewform?usp=sf_link)
+[Турнир ставок](https://docs.google.com/spreadsheets/d/1_zZb2nZdQ8nzre7_fAazDRdcohpF3I8lY_FPiPle6nA/edit?usp=sharing)
 
 <img src="https://challonge.com/ru/ofz2rxfi.svg" width="100%"/>
 
