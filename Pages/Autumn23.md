@@ -7,7 +7,7 @@
 
 [Раунд](https://codeforces.com/contests/484067) \
 [Армагеддон](https://codeforces.com/contests/484073) \
-[Ставки](https://docs.google.com/forms/d/e/1FAIpQLSfHt7ew4O9JhKapD5ILdx7HIPSnZ-k_olCftAtSFUftKrs2aA/viewform?usp=sf_link)
+[Ставки](https://docs.google.com/forms/d/e/1FAIpQLScFkd2flvaeLhWw2RUj8zrj0_VeLNEfY7ATKleFi-YN34BsLg/viewform?usp=sf_link)
 
 ## 02.11 [Забег на четвереньках](https://codeforces.com/contests/483116)
 <img src ="https://i.imgur.com/OHQERuf.jpg" alt="Дима Тишин" width="200">
